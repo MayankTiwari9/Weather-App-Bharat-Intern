@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                     <div>
                       <h2>Wind Direction</h2>
-                      <h2>${response.wind.deg} {dir}</h2>
+                      <h2>${response.wind.deg} ${dir}</h2>
                     </div>
                   </div>
                 </div>
